@@ -1,3 +1,10 @@
-Found a none working plugin for nukkit, took source (https://github.com/charliea21/NukkitX-Installer), edited it so it works.
+Why:
+Found a none working plugin for nukkit
+Took source (https://github.com/charliea21/NukkitX-Installer)
+Edited it so it works.
 
-Place update.jar where ever the nukkit.jar is and, run via java, profit.
+How:
+Place update.jar where ever the nukkit.jar
+run via java (java -java update.jar"
+Wait for complete / fail.
+profit.
